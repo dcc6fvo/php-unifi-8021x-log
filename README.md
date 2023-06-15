@@ -10,8 +10,9 @@
 - Linux/debian libs: php-ldap php-curl
 
 ### Install
-git clone https://github.com/dcc6fvo/php-unifi-8021x-log
-
-
+1) git clone https://github.com/dcc6fvo/php-unifi-8021x-log
+2) cp config.sample.php config.php
+3) edit config.php
+4) php unifi-8021x-log.php
 
 
