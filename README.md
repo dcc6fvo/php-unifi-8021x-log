@@ -14,6 +14,7 @@ Please check and edit config.sample.php as needed. For future versions we can im
 ### Prerequisites
 - Art of Wifi from https://github.com/Art-of-WiFi/UniFi-API-client
 - PHP Mailer from https://github.com/PHPMailer/PHPMailer
+- PHP >= 7
 - Linux/debian libs: 
   - php-ldap 
   - php-curl
